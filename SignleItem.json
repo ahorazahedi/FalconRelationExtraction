@@ -1,0 +1,645 @@
+{
+  "id": "14510914",
+  "passages": [
+    {
+      "offset": 0,
+      "text": "Congenital hypothyroidism due to a new deletion in the sodium/iodide symporter protein.",
+      "annotations": [
+        {
+          "id": "0",
+          "infons": {
+            "identifier": "D003409",
+            "type": "DiseaseOrPhenotypicFeature"
+          },
+          "text": "Congenital hypothyroidism",
+          "locations": [
+            {
+              "offset": 0,
+              "length": 25
+            }
+          ]
+        },
+        {
+          "id": "1",
+          "infons": {
+            "identifier": "6528",
+            "type": "GeneOrGeneProduct"
+          },
+          "text": "sodium/iodide symporter",
+          "locations": [
+            {
+              "offset": 55,
+              "length": 23
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "offset": 88,
+      "text": "OBJECTIVE: Iodide transport defect (ITD) is a rare disorder characterised by an inability of the thyroid to maintain an iodide gradient across the basolateral membrane of thyroid follicular cells, that often results in congenital hypothyroidism. When present the defect is also found in the salivary glands and gastric mucosa and it has been shown to arise from abnormalities of the sodium/iodide symporter (NIS). PATIENT: We describe a woman with hypothyroidism identified at the 3rd month of life. The diagnosis of ITD was suspected because of nodular goitre, and little if any iodide uptake by the thyroid and salivary glands. Treatment with iodide partially corrected the hypothyroidism; however, long-term substitution therapy with L-thyroxine was started. MEASUREMENTS: Thyroid radioiodide uptake was only 1.4% and 0.3% at 1 and 24 h after the administration of recombinant human TSH. The saliva to plasma I- ratio was 1.1 indicating that the inability of the thyroid gland to concentrate I- was also present in the salivary glands. RESULTS: Analysis of the patient's NIS gene revealed a 15 nucleotide (nt) deletion of the coding sequence (nt 1314 through nt 1328) and the insertion of 15 nt duplicating the first 15 nt of the adjacent intron. The patient was homozygous for this insertion/deletion, while both consanguineous parents were heterozygous. This deletion predicts the production of a protein lacking the five terminal amino acids of exon XI (439-443) which are located in the 6th intracellular loop. COS-7 cells transfected with a vector expressing the mutant del-(439-443) NIS failed to concentrate iodide, suggesting that the mutation was the direct cause of the ITD in this patient. CONCLUSION: In conclusion we describe the first Italian case of congenital hypothyroidism due to a new deletion in the NIS gene.",
+      "annotations": [
+        {
+          "id": "2",
+          "infons": {
+            "identifier": "C564766",
+            "type": "DiseaseOrPhenotypicFeature"
+          },
+          "text": "Iodide transport defect",
+          "locations": [
+            {
+              "offset": 99,
+              "length": 23
+            }
+          ]
+        },
+        {
+          "id": "3",
+          "infons": {
+            "identifier": "C564766",
+            "type": "DiseaseOrPhenotypicFeature"
+          },
+          "text": "ITD",
+          "locations": [
+            {
+              "offset": 124,
+              "length": 3
+            }
+          ]
+        },
+        {
+          "id": "4",
+          "infons": {
+            "identifier": "D050033",
+            "type": "DiseaseOrPhenotypicFeature"
+          },
+          "text": "inability of the thyroid",
+          "locations": [
+            {
+              "offset": 168,
+              "length": 24
+            }
+          ]
+        },
+        {
+          "id": "5",
+          "infons": {
+            "identifier": "D007454",
+            "type": "ChemicalEntity"
+          },
+          "text": "iodide",
+          "locations": [
+            {
+              "offset": 208,
+              "length": 6
+            }
+          ]
+        },
+        {
+          "id": "6",
+          "infons": {
+            "identifier": "D003409",
+            "type": "DiseaseOrPhenotypicFeature"
+          },
+          "text": "congenital hypothyroidism",
+          "locations": [
+            {
+              "offset": 307,
+              "length": 25
+            }
+          ]
+        },
+        {
+          "id": "7",
+          "infons": {
+            "identifier": "6528",
+            "type": "GeneOrGeneProduct"
+          },
+          "text": "sodium/iodide symporter",
+          "locations": [
+            {
+              "offset": 471,
+              "length": 23
+            }
+          ]
+        },
+        {
+          "id": "8",
+          "infons": {
+            "identifier": "6528",
+            "type": "GeneOrGeneProduct"
+          },
+          "text": "NIS",
+          "locations": [
+            {
+              "offset": 496,
+              "length": 3
+            }
+          ]
+        },
+        {
+          "id": "9",
+          "infons": {
+            "identifier": "9606",
+            "type": "OrganismTaxon"
+          },
+          "text": "PATIENT",
+          "locations": [
+            {
+              "offset": 502,
+              "length": 7
+            }
+          ]
+        },
+        {
+          "id": "10",
+          "infons": {
+            "identifier": "9606",
+            "type": "OrganismTaxon"
+          },
+          "text": "woman",
+          "locations": [
+            {
+              "offset": 525,
+              "length": 5
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "infons": {
+            "identifier": "D007037",
+            "type": "DiseaseOrPhenotypicFeature"
+          },
+          "text": "hypothyroidism",
+          "locations": [
+            {
+              "offset": 536,
+              "length": 14
+            }
+          ]
+        },
+        {
+          "id": "12",
+          "infons": {
+            "identifier": "C564766",
+            "type": "DiseaseOrPhenotypicFeature"
+          },
+          "text": "ITD",
+          "locations": [
+            {
+              "offset": 605,
+              "length": 3
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "infons": {
+            "identifier": "D020518",
+            "type": "DiseaseOrPhenotypicFeature"
+          },
+          "text": "nodular goitre",
+          "locations": [
+            {
+              "offset": 634,
+              "length": 14
+            }
+          ]
+        },
+        {
+          "id": "14",
+          "infons": {
+            "identifier": "D007454",
+            "type": "ChemicalEntity"
+          },
+          "text": "iodide",
+          "locations": [
+            {
+              "offset": 668,
+              "length": 6
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "infons": {
+            "identifier": "D007454",
+            "type": "ChemicalEntity"
+          },
+          "text": "iodide",
+          "locations": [
+            {
+              "offset": 733,
+              "length": 6
+            }
+          ]
+        },
+        {
+          "id": "16",
+          "infons": {
+            "identifier": "D007037",
+            "type": "DiseaseOrPhenotypicFeature"
+          },
+          "text": "hypothyroidism",
+          "locations": [
+            {
+              "offset": 764,
+              "length": 14
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "infons": {
+            "identifier": "D013974",
+            "type": "ChemicalEntity"
+          },
+          "text": "L-thyroxine",
+          "locations": [
+            {
+              "offset": 825,
+              "length": 11
+            }
+          ]
+        },
+        {
+          "id": "18",
+          "infons": {
+            "identifier": "D007454",
+            "type": "ChemicalEntity"
+          },
+          "text": "radioiodide",
+          "locations": [
+            {
+              "offset": 872,
+              "length": 11
+            }
+          ]
+        },
+        {
+          "id": "19",
+          "infons": {
+            "identifier": "9606",
+            "type": "OrganismTaxon"
+          },
+          "text": "human",
+          "locations": [
+            {
+              "offset": 968,
+              "length": 5
+            }
+          ]
+        },
+        {
+          "id": "20",
+          "infons": {
+            "identifier": "7200",
+            "type": "GeneOrGeneProduct"
+          },
+          "text": "TSH",
+          "locations": [
+            {
+              "offset": 974,
+              "length": 3
+            }
+          ]
+        },
+        {
+          "id": "21",
+          "infons": {
+            "identifier": "D007454",
+            "type": "ChemicalEntity"
+          },
+          "text": "I-",
+          "locations": [
+            {
+              "offset": 1000,
+              "length": 2
+            }
+          ]
+        },
+        {
+          "id": "22",
+          "infons": {
+            "identifier": "D007454",
+            "type": "ChemicalEntity"
+          },
+          "text": "I-",
+          "locations": [
+            {
+              "offset": 1083,
+              "length": 2
+            }
+          ]
+        },
+        {
+          "id": "23",
+          "infons": {
+            "identifier": "9606",
+            "type": "OrganismTaxon"
+          },
+          "text": "patient",
+          "locations": [
+            {
+              "offset": 1152,
+              "length": 7
+            }
+          ]
+        },
+        {
+          "id": "24",
+          "infons": {
+            "identifier": "6528",
+            "type": "GeneOrGeneProduct"
+          },
+          "text": "NIS",
+          "locations": [
+            {
+              "offset": 1162,
+              "length": 3
+            }
+          ]
+        },
+        {
+          "id": "25",
+          "infons": {
+            "identifier": "c|DEL|1314_1328|",
+            "type": "SequenceVariant"
+          },
+          "text": "deletion of the coding sequence (nt 1314 through nt 1328)",
+          "locations": [
+            {
+              "offset": 1201,
+              "length": 57
+            }
+          ]
+        },
+        {
+          "id": "26",
+          "infons": {
+            "identifier": "c|DUP||15",
+            "type": "SequenceVariant"
+          },
+          "text": "insertion of 15 nt duplicating the first 15",
+          "locations": [
+            {
+              "offset": 1267,
+              "length": 43
+            }
+          ]
+        },
+        {
+          "id": "27",
+          "infons": {
+            "identifier": "9606",
+            "type": "OrganismTaxon"
+          },
+          "text": "patient",
+          "locations": [
+            {
+              "offset": 1342,
+              "length": 7
+            }
+          ]
+        },
+        {
+          "id": "28",
+          "infons": {
+            "identifier": "p|DEL|439_443|",
+            "type": "SequenceVariant"
+          },
+          "text": "lacking the five terminal amino acids of exon XI (439-443)",
+          "locations": [
+            {
+              "offset": 1498,
+              "length": 58
+            }
+          ]
+        },
+        {
+          "id": "29",
+          "infons": {
+            "identifier": "CVCL_0224",
+            "type": "CellLine"
+          },
+          "text": "COS-7",
+          "locations": [
+            {
+              "offset": 1606,
+              "length": 5
+            }
+          ]
+        },
+        {
+          "id": "30",
+          "infons": {
+            "identifier": "p|DEL|439_443|",
+            "type": "SequenceVariant"
+          },
+          "text": "del-(439-443)",
+          "locations": [
+            {
+              "offset": 1666,
+              "length": 13
+            }
+          ]
+        },
+        {
+          "id": "31",
+          "infons": {
+            "identifier": "6528",
+            "type": "GeneOrGeneProduct"
+          },
+          "text": "NIS",
+          "locations": [
+            {
+              "offset": 1680,
+              "length": 3
+            }
+          ]
+        },
+        {
+          "id": "32",
+          "infons": {
+            "identifier": "D007454",
+            "type": "ChemicalEntity"
+          },
+          "text": "iodide",
+          "locations": [
+            {
+              "offset": 1706,
+              "length": 6
+            }
+          ]
+        },
+        {
+          "id": "33",
+          "infons": {
+            "identifier": "C564766",
+            "type": "DiseaseOrPhenotypicFeature"
+          },
+          "text": "ITD",
+          "locations": [
+            {
+              "offset": 1771,
+              "length": 3
+            }
+          ]
+        },
+        {
+          "id": "34",
+          "infons": {
+            "identifier": "9606",
+            "type": "OrganismTaxon"
+          },
+          "text": "patient",
+          "locations": [
+            {
+              "offset": 1783,
+              "length": 7
+            }
+          ]
+        },
+        {
+          "id": "35",
+          "infons": {
+            "identifier": "D003409",
+            "type": "DiseaseOrPhenotypicFeature"
+          },
+          "text": "congenital hypothyroidism",
+          "locations": [
+            {
+              "offset": 1856,
+              "length": 25
+            }
+          ]
+        },
+        {
+          "id": "36",
+          "infons": {
+            "identifier": "6528",
+            "type": "GeneOrGeneProduct"
+          },
+          "text": "NIS",
+          "locations": [
+            {
+              "offset": 1911,
+              "length": 3
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R0",
+      "infons": {
+        "entity1": "c|DEL|1314_1328|",
+        "entity2": "D003409",
+        "type": "Positive_Correlation",
+        "novel": "Novel"
+      }
+    },
+    {
+      "id": "R1",
+      "infons": {
+        "entity1": "D050033",
+        "entity2": "D007454",
+        "type": "Association",
+        "novel": "No"
+      }
+    },
+    {
+      "id": "R2",
+      "infons": {
+        "entity1": "p|DEL|439_443|",
+        "entity2": "C564766",
+        "type": "Positive_Correlation",
+        "novel": "Novel"
+      }
+    },
+    {
+      "id": "R3",
+      "infons": {
+        "entity1": "p|DEL|439_443|",
+        "entity2": "D003409",
+        "type": "Positive_Correlation",
+        "novel": "Novel"
+      }
+    },
+    {
+      "id": "R4",
+      "infons": {
+        "entity1": "C564766",
+        "entity2": "D007454",
+        "type": "Association",
+        "novel": "No"
+      }
+    },
+    {
+      "id": "R5",
+      "infons": {
+        "entity1": "C564766",
+        "entity2": "6528",
+        "type": "Negative_Correlation",
+        "novel": "No"
+      }
+    },
+    {
+      "id": "R6",
+      "infons": {
+        "entity1": "D013974",
+        "entity2": "D007037",
+        "type": "Negative_Correlation",
+        "novel": "No"
+      }
+    },
+    {
+      "id": "R7",
+      "infons": {
+        "entity1": "D007454",
+        "entity2": "p|DEL|439_443|",
+        "type": "Negative_Correlation",
+        "novel": "Novel"
+      }
+    },
+    {
+      "id": "R8",
+      "infons": {
+        "entity1": "D007454",
+        "entity2": "6528",
+        "type": "Association",
+        "novel": "Novel"
+      }
+    },
+    {
+      "id": "R9",
+      "infons": {
+        "entity1": "D007037",
+        "entity2": "D007454",
+        "type": "Negative_Correlation",
+        "novel": "No"
+      }
+    },
+    {
+      "id": "R10",
+      "infons": {
+        "entity1": "D003409",
+        "entity2": "c|DUP||15",
+        "type": "Positive_Correlation",
+        "novel": "Novel"
+      }
+    },
+    {
+      "id": "R11",
+      "infons": {
+        "entity1": "D003409",
+        "entity2": "6528",
+        "type": "Association",
+        "novel": "Novel"
+      }
+    }
+  ]
+}
